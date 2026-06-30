@@ -1,1 +1,1 @@
-Stusent performance indicator
+Student performance indicator
